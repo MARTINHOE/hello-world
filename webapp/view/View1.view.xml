@@ -2,8 +2,8 @@
 	displayBlock="true" xmlns="sap.m">
 	<App>
 		<pages>
-			<Page title="{i18n>title}">
-				<content>Hallo</content>
+			<Page title="{i18n>AW3S0M3}">
+				<content></content>
 			</Page>
 		</pages>
 	</App>
